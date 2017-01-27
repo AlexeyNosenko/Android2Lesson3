@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.master.anroid2lesson1.MainActivity">
+    <item
+        android:id="@+id/menu_action_clear"
+        android:title="@string/menu_clear_mark"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_action_geo"
+        android:title="@string/menu_example_geolocation"
+        android:orderInCategory="2"
+        app:showAsAction="never"/>
+</menu>

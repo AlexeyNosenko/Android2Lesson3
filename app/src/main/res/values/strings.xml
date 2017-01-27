@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Map_A2L3</string>
+    <string name="title_activity_main">Map</string>
+
+    <string name="menu_clear_mark">Clear mark</string>
+    <string name="menu_example_geolocation">Example with geolocation</string>
+
+    <string name="dl_title">Adding mark</string>
+    <string name="dl_message">Enter text for mark</string>
+    <string name="dl_btn_cancel">Cancel</string>
+    <string name="dl_btn_add">Add</string>
+
+</resources>
